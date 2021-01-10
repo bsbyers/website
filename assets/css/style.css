@@ -544,6 +544,15 @@ section {
   opacity: 0;
 }
 
+.portfolio .portfolio-wrap .portfolio-img {
+  width: 300px;
+  height: 250px;
+  object-fit: cover;
+  border: 1px solid #ddd; /* Gray border */
+  border-radius: 4px;  /* Rounded border */
+  padding: 5px; /* Some padding */
+}
+
 .portfolio .portfolio-wrap .portfolio-links {
   opacity: 1;
   left: 0;
